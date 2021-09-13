@@ -8,8 +8,7 @@ The office is divided into two partitions and is separated by space between them
 
 A representation of the office is provided below with 8 rows of cubicles.
 
-OOOO OOOM
-
+OOOO OOOM<br>
 OVOO OOOO
 
 OOVO OOVO
